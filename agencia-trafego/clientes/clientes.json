@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Exemplo Cliente 1",
+    "slug": "exemplo-cliente-1",
+    "account_id_meta": "act_123456789",
+    "customer_id_google": "123-456-7890",
+    "meta_budget_diario": 100.00,
+    "google_budget_diario": 80.00,
+    "meta_cpa": 30.00,
+    "google_cpa": 25.00,
+    "objetivo": "leads",
+    "nicho": "clinica",
+    "ativo": false,
+    "contato_whatsapp": "5511999999999"
+  },
+  {
+    "nome": "Exemplo Ecommerce 2",
+    "slug": "exemplo-ecommerce-2",
+    "account_id_meta": "act_987654321",
+    "customer_id_google": "987-654-3210",
+    "meta_budget_diario": 200.00,
+    "google_budget_diario": 150.00,
+    "meta_cpa": 50.00,
+    "google_cpa": 45.00,
+    "meta_roas": 3.0,
+    "google_roas": 2.5,
+    "objetivo": "vendas",
+    "nicho": "ecommerce",
+    "ativo": false,
+    "contato_whatsapp": "5511888888888"
+  }
+]
