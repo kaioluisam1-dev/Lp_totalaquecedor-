@@ -11,6 +11,7 @@ logs/
 # Dashboards gerados (arquivos grandes)
 dashboards/*.html
 !dashboards/template_dashboard.html
+!dashboards/demo.html
 
 # Python
 __pycache__/
