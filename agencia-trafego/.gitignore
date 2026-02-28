@@ -1,0 +1,20 @@
+# Credenciais — NUNCA commitar
+.env
+
+# Dados coletados (podem conter info sensível de clientes)
+data/*.json
+data/*.txt
+
+# Logs
+logs/
+
+# Dashboards gerados (arquivos grandes)
+dashboards/*.html
+!dashboards/template_dashboard.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
